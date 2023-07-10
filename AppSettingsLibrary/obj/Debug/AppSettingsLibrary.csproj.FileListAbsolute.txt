@@ -1,0 +1,9 @@
+D:\Учеба Кирилл\Skillbox BackEnd\MainHomeworkBank\AppSettingsLibrary\bin\Debug\AppSettingsLibrary.dll
+D:\Учеба Кирилл\Skillbox BackEnd\MainHomeworkBank\AppSettingsLibrary\bin\Debug\AppSettingsLibrary.pdb
+D:\Учеба Кирилл\Skillbox BackEnd\MainHomeworkBank\AppSettingsLibrary\bin\Debug\Newtonsoft.Json.dll
+D:\Учеба Кирилл\Skillbox BackEnd\MainHomeworkBank\AppSettingsLibrary\bin\Debug\Newtonsoft.Json.xml
+D:\Учеба Кирилл\Skillbox BackEnd\MainHomeworkBank\AppSettingsLibrary\obj\Debug\AppSettingsLibrary.csproj.AssemblyReference.cache
+D:\Учеба Кирилл\Skillbox BackEnd\MainHomeworkBank\AppSettingsLibrary\obj\Debug\AppSettingsLibrary.csproj.CoreCompileInputs.cache
+D:\Учеба Кирилл\Skillbox BackEnd\MainHomeworkBank\AppSettingsLibrary\obj\Debug\AppSettingsLibrary.csproj.CopyComplete
+D:\Учеба Кирилл\Skillbox BackEnd\MainHomeworkBank\AppSettingsLibrary\obj\Debug\AppSettingsLibrary.dll
+D:\Учеба Кирилл\Skillbox BackEnd\MainHomeworkBank\AppSettingsLibrary\obj\Debug\AppSettingsLibrary.pdb
